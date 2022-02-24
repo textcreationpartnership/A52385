@@ -1,0 +1,468 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Parliament of the Commonvvealth of England, and every individual member thereof The declaration of Daniel Noddel solicitor for the freeholders and commoners within the mannor of Epworth, in the Isle of Axholm, in number about 1200 besides new erected cottages, on the behalf of himself and all the said commoners: discovering the plot and design of Master John Gibbon and his fellow-projectors to gain a posession of the said freeholders ancient inheritance in their commonable grounds there, contrary to law.</title>
+            <author>Noddel, Daniel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52385</idno>
+            <idno type="STC">Wing N1217A</idno>
+            <idno type="STC">ESTC R219026</idno>
+            <idno type="EEBO-CITATION">99830562</idno>
+            <idno type="PROQUEST">99830562</idno>
+            <idno type="VID">35015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52385)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35015)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1920:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Parliament of the Commonvvealth of England, and every individual member thereof The declaration of Daniel Noddel solicitor for the freeholders and commoners within the mannor of Epworth, in the Isle of Axholm, in number about 1200 besides new erected cottages, on the behalf of himself and all the said commoners: discovering the plot and design of Master John Gibbon and his fellow-projectors to gain a posession of the said freeholders ancient inheritance in their commonable grounds there, contrary to law.</title>
+                  <author>Noddel, Daniel.</author>
+               </titleStmt>
+               <extent>[2], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>and are to be sold at the seven stars in Pauls Church-yard, neer the great North-door,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Goldsmiths Collection, University of London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land tenure --  England --  Early works to 1800.</term>
+               <term>Commons --  England --  Epworth --  Early works to 1800.</term>
+               <term>Epworth (England) --  Early works to 1800.</term>
+               <term>Axholme, Isle of (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35015:1" rendition="simple:additions"/>
+            <pb facs="tcp:35015:1" rendition="simple:additions"/>
+            <p>TO THE PARLIAMENT OF THE Commonvvealth OF ENGLAND, And every individual Member thereof.</p>
+            <p>THE DECLARATION OF <hi>DANIEL NODDEL</hi> Solicitor for the Freeholders and Commoners within the Mannor of <hi>Epworth,</hi> in the Iſle of <hi>Axholm,</hi> in number about 1200 beſides new erected Cottages, on the behalf of himſelf and all the ſaid Commoners: diſcovering the plot and deſign of Maſter <hi>John Gibbon</hi> and his fellow-projectors to gain a poſſeſſion of the ſaid Freeholders ancient inheritance in their commonable grounds there, contrary to law.</p>
+            <p>Printed at <hi>London,</hi> and are to be ſold at the ſeven ſtars in <hi>Pauls</hi> Church-yard, neer the great North-door, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:35015:2"/>
+            <pb facs="tcp:35015:2" rendition="simple:additions"/>
+            <head>The Declaration of <hi>Daniel Noddel</hi> So<g ref="char:EOLhyphen"/>licitor for the Freeholders and Com<g ref="char:EOLhyphen"/>moners within the Mannor of <hi>Ep<g ref="char:EOLhyphen"/>worth,</hi> &amp;c.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OU are under God, the ſupreme power of this Commonwealth of <hi>England,</hi> and the grand Truſtees thereof, to preſerve the lives, liberties, and eſtates of all the people there<g ref="char:EOLhyphen"/>in, according to law; and therefore I come unto you, and lay before you once more the cauſe concerning the livelihood of many thouſand men, women, and children, with<g ref="char:EOLhyphen"/>in the Mannor of <hi>Epworth,</hi> in the Iſle of <hi>Axholm,</hi> for whom I have been intruſted now almoſt eight yeers as Sollicitor, and as the caſe now ſtands, am bound in conſcience not to keep ſilence, leſt by that means deſtruction come upon them and me through ignorance.</p>
+            <p>I make no doubt but your honors have all heard of a pretended great Ryot ſome yeers paſt. committed in the ſaid Iſle, for that hath been cryed up into the late Act of Oblivion, wherein there is an ex<g ref="char:EOLhyphen"/>emption from pardon touching the pretended Ryots in thoſe parts; but I am perſwaded that you have not heard half ſo much of the pro<g ref="char:EOLhyphen"/>ceedings that have been at law by the Freeholders there, for the re<g ref="char:EOLhyphen"/>covery of their ancient right to 7400 acres of commonable grounds, (being the ground in controverſie between the Freeholders, and cer<g ref="char:EOLhyphen"/>tain Undertakers, who now term themſelves participants in the Level of <hi>Hatfield</hi>-chaſe) but are no part of the ſaid chaſe, of which
+<pb n="2" facs="tcp:35015:3" rendition="simple:additions"/>about twenty yeers ſince the Freeholders were diſpoſſeſſed by force of Armes, under colour onely of the late Kings illegal Patent, by thoſe great Ryoters the firſt Undertakers, or rather projectors, when di<g ref="char:EOLhyphen"/>vers of the Commoners were murdered and ſhot to death, and many wounded, who did but turn againe (as worms trod upon will do) in the juſt defence of their undoubted right of poſſeſſion, when they could have no proceedings at law, Replevins being forbidden them by order of the Exchequer; and the poſſeſſion wreſted and held from them by Star-chamber orders; their perſons many of them being impriſoned, and many inforced by Purſuivants and Serjeants at Arms to lye from their habitations in the fields under hedges, being uſually termed rebels, and threatned to be hanged at their doors, and plagued with multitudes of Star-chamber proces; ſome forced to flye out of the kingdom at that time, having their goods illegally diſtrained, and ſold for iſſues out of the then Kings-bench, others to ſell and morgage their lands to purchaſe and unjuſt peace againſt the villanous and tyrannical forcible entries, and intruſions, arreſts, and impriſonments brought upon them by the ſaid participants contrary to law.</p>
+            <p>No, Right honorable, The plot and deſign of the Undertakers (eſpecially that Machiavel Maſter <hi>John Gibbon,</hi> who both is Solicitor for himſelf and his fellow-projectors) is not to tell you of thoſe things, but to keep you hoodwink't (I deſire to uſe it with reverence) to the intent you ſhall but onely ſee an ugly ſhape of a late pretended Ry<g ref="char:EOLhyphen"/>ot, held forth before you in a moſt partial, wicked, and erroneous report of Maſter <hi>Say</hi> and Maſter <hi>Henry Darley</hi> (two members of the Committee (at the leaſt of fifty) of the late Parliament, for the Iſle of <hi>Axholm,</hi> and Maſter <hi>Gibbons</hi> great coached and feaſted friends) for by that report of theirs, your Honours ſhall never ſee the title of the Freeholders to the ſaid lands, nor the proceedings that have been had at law, whereby they have recovered them. No, theſe muſt all lye whiſt and damped with the great noiſe of a Ryot, and throwing down houſes, though built upon the Freeholders own ground, and with their own wood, which the projectors and their tenants got and digged out of the ſaid grounds, and were fitter for dog-kennels (as my friend Maſter <hi>Spittlehouſe</hi> hath ſet forth) then to come in competition with thoſe great Ryots committed by the projectors at their firſt entrance upon thoſe grounds, in the horrid maſſacres, for<g ref="char:EOLhyphen"/>cible
+<pb n="3" facs="tcp:35015:3" rendition="simple:additions"/>entries, intruſions, impriſonments, and oppreſſions aforeſaid. I ſay, the ſaid report will preſent onely to your eye the mention of a Ryot, nothing at all of the title and proceedings at law; for that Maſter <hi>Say</hi> and Maſter <hi>Darley</hi> would not ſuffer to be made forth, when it was offered by the Freeholders; neither durſt Maſter <hi>Gib<g ref="char:EOLhyphen"/>bon</hi> and the reſt of his fellow-projectors produce any, although they ſet forth and tell the late Parliament in their petition, the lands are ſetled upon them by good aſſurances, and that it will ſo appear up<g ref="char:EOLhyphen"/>on the examination of the buſineſs: and although the whole matter of the petition was referred to the Committee, which was alſo the Committee for Sir. <hi>Arthur Haſelrige</hi> and <hi>Primate,</hi> with ſome addition of late Members to it. And therefore becauſe Maſter <hi>Gib<g ref="char:EOLhyphen"/>bon</hi> and his fellow projectors having now no remedy either in law or equity, are got into a By-way (a Ryot, the only fig-leaf to cover their nakedneſs) to gain poſſeſſion in thoſe grounds which they never yet legally had; and by deluſion (if poſſible) to draw in your honors extraordinary power to effect it, inſinuating as if the whole drainage in thoſe parts, containing 60000 acres lying in the Counties of <hi>York, Lincoln,</hi> and <hi>Nottingham,</hi> will for want of a ſettlement be overthrown, and ſo aime at an Act of Parliament, and therein to hedge the ancient inheritance of the Freeholders in the ſaid grounds; through which the Undertakers did but at their firſt coming into thoſe parts, deſire to cut a drain, becauſe elſe they could not drain <hi>Hatfield</hi>-chaſe, and many other Mannors, as is cleared by the proofs.</p>
+            <p>I do again humbly entreat leave to tender the Freeholders title, and to clear up the ſame more fully to your honors, againſt any information of Maſter <hi>Gibbon</hi> or his counſel whatſoever; humbly beſeeching you, on the behalf of all the Freeholders and Commoners, to ſecure the ſame and their poſſeſſion unto them, for no other end, but as your honors ſhall direct, by way of a juſt and equitable improve<g ref="char:EOLhyphen"/>ment, for their own and the Commonwealths good, againſt the vio<g ref="char:EOLhyphen"/>lation of thoſe that againſt law and equity endeavor to uſurp a poſ<g ref="char:EOLhyphen"/>ſeſſion. And next thereunto, I ſhall humbly and truly inform your honors of the proceedings, that have of late yeers been in your ordi<g ref="char:EOLhyphen"/>nary Courts of Juſtice, concerning the grounds in queſtion.</p>
+            <p>And laſtly, Shall ſet forth the Participants petition in the late Parliament, <hi>verbatim,</hi> whereby they hope (now all their hopes are
+<pb n="4" facs="tcp:35015:4" rendition="simple:additions"/>gone both in law and equity) to gaine a poſſeſſion meerly upon the ſcore of a Ryot committed by ſome few of the inhabitants, upon which petition the report of Maſter <hi>Say,</hi> and Maſter <hi>Darley,</hi> which is to come before you, is grounded.</p>
+            <p>
+               <hi>The Freeholders title is as followeth.</hi>
+            </p>
+            <p>The Freeholders and Commoners within the Mannor of <hi>Epworth,</hi> in the Iſle of <hi>Axholm,</hi> have time out of minde had common appen<g ref="char:EOLhyphen"/>dant to their ſeveral tenements, for all manner of cattel, levant, and couchant thereupon, at all times of the yeer, in and through all the waſts and commonable grounds within the ſaid Mannor (whereof the grounds in controverſie are the greateſt part, and was alwayes of the beſt nature) and in confirmation of this their ancient right, Sir <hi>John Mowbray,</hi> ſometime Lord of the ſaid Iſle, having made an ap<g ref="char:EOLhyphen"/>provement of a great part of the ſaid grounds to himſelf as Lord, did about three hundred yeers ſince, grant unto the Freeholders by an ancient Charter in <hi>French,</hi> but here tranſlated into Engliſh by <hi>Wil<g ref="char:EOLhyphen"/>liam Riley,</hi> keeper of the Records in the Tower, as followeth.</p>
+            <floatingText xml:lang="eng" type="charter">
+               <body>
+                  <p>THis Indenture between their thrice honored Lord Sir <hi>John Mowbray,</hi> Lord of the Iſle of <hi>Axholm,</hi> and of the honour of <hi>Brember,</hi> of the one part; <hi>Rawlin</hi> of <hi>Brumham, William</hi> of <hi>Brumham, Roger</hi> of <hi>Brumham John</hi> of <hi>Thetilthorp, Thomas Mel<g ref="char:EOLhyphen"/>ton, Jeoffery Laundels, Vincent Bavant, John Gardner, John Cut<g ref="char:EOLhyphen"/>wulf, Rich.</hi> of <hi>Belwood,</hi> and <hi>John</hi> at <hi>Hagh</hi> his Tenants of the Iſle of <hi>Axholm</hi> and all the Tenants and reſiants within the ſaid Iſle, on the other part, witneſſeth, That all the ſaid Tenants and re<g ref="char:EOLhyphen"/>ſiants have ſupplicated their ſaid Lord Sir <hi>John Mowbray</hi> to have remedy of divers claims touching their right, and divers debates and grievances to them made by the Miniſters of the ſaid Lord Sir <hi>John Mowbray;</hi> upon which ſupplication it is a<g ref="char:EOLhyphen"/>greed that the ſaid Sir <hi>John</hi> Lord aforeſaid hath granted for him and for his heirs to the ſaid <hi>Rawlin, William Roger, John, Thomas, Jeoffery, Vincent, John, John, Richard,</hi> and <hi>John,</hi> Tenants aforeſaid<g ref="char:punc">▪</g> &amp; to their heirs &amp; to all having their eſtate or parcel of their eſtate, and to all the other tenants and reſiants within the Iſle of <hi>Axholm,</hi> and to their heirs, and to all that hereafter ſhall
+<pb n="5" facs="tcp:35015:4" rendition="simple:additions"/>have their eſtate, all the things underwritten. That is to ſay, That the ſaid Sir <hi>John</hi> nor his heirs ſhall not approve any waſte, Moors, Woods, Waters, nor make or ſhall make any other ap<g ref="char:EOLhyphen"/>provement of any part within the ſaid Iſle of <hi>Axholm.</hi> And that the ſaid <hi>Rawlin, William Roger, John, Thomas, Jecffery, Vincent,</hi>
+                     <note place="margin">
+                        <hi>33. Ed. 3.</hi> Note that at that time the Free<g ref="char:EOLhyphen"/>holders had had Common time out of mind.</note> 
+                     <hi>John, John, Richard</hi> and <hi>John,</hi> and their heirs, and thoſe that ſhall have their eſtate, or parcel of their eſtate, and all other Tenants and Reſiants within the Iſle of <hi>Axholm,</hi> ſhall have their Common, which is appendant to their Free-tenement, according to that which they have had and uſed time out of minde.</p>
+                  <p>And alſo that the aforeſaid <hi>Rawlin, William, Roger, John, Tho<g ref="char:EOLhyphen"/>mas, Jeoffery, Vincent, John, John, Richard</hi> and <hi>Joan,</hi> and their heirs, and all thoſe which their eſtate, or parcel of their eſtate ſhall have, and all other the tenants and reſiants within the a<g ref="char:EOLhyphen"/>foreſaid Iſle, may dig in the Moors and Marſhes, Turfs, Trees, and Roots, found within the Soil of the ſaid Moors and Marſhes. And that one pound, containing one half acre, be made at the coſt of the ſaid tenants, and maintained hereafter by the ſaid Lord and his heirs in <hi>Belton-car,</hi> and one other in <hi>Haxey-car,</hi> con<g ref="char:EOLhyphen"/>taining as much, and that they be made in places for the moſt eaſe of the ſaid tenants. And that no chaſe of beaſts of commoners be made but once a yeer, and that the ſaid Beaſts be not other<g ref="char:EOLhyphen"/>wiſe driven but to the Pound of the Paſture where they ſhall be taken, and there the beaſts of the ſaid Tenants to be delivered by the tenants aforeſaid, or by their ſervants: and ſaving al<g ref="char:EOLhyphen"/>wayes to the ſaid tenants, and to their heirs, and to their ſer<g ref="char:EOLhyphen"/>vants, that they may take their beaſts and receive them in the Drift, or before the drift, ſo that the drift of beaſts of ſtrangers be not thereby diſturbed.</p>
+                  <p>And that in the ſeveralities of the ſaid Lord adjoyning to the places in which they have Common, which are open and not incloſed, no beaſts of the ſaid tenants and Commoners be taken nor impounded, but eaſily driven out. And that the ſaid tenants and reſiants, and their heirs, and all thoſe which their eſtate, or parcel of their eſtate ſhall have, may dig and take Turf or other Earth, for the walls of their houſes, and for all other neceſſaries of the ſaid houſes, and for to incloſe the walls of their Meſſuages or Manſions. And to dry Flags in all the ſaid waſtes, for to
+<pb n="6" facs="tcp:35015:5" rendition="simple:additions"/>cover the ridges of their houſes and walls; and for bringing of Trees to repaire the river of <hi>Trent,</hi> where cauſe of repairing is, and to make them new. And that the ſaid <hi>Rawlin, William, Roger, John, Thomas, Jeoffery, Vincent, John, John, Richard</hi> and <hi>John</hi> aforeſaid, and all other the Tenants and Reſiants, their heirs, and all thoſe which ſhall have their eſtate, or parcel of their eſtate hereafter, be not for the future amerced or grieved for default of not appearing to ring their ſwine. And that they may put hemp to be rated in all the waters of the Iſle, (except the Skires which are ſevered to the ſaid Lord Sir <hi>John Mow<g ref="char:EOLhyphen"/>bray</hi>) and that the ſaid Lord nor his heirs, nor his Miniſtery make no moleſtation nor grievance to the dogs of the forenamed Tenants and Reſiants aforeſaid, nor to their heirs, nor to thoſe which ſhall-have their eſtate, or parcel of their eſtate; and if they do, the Tenants ſhall have their recovery at the common law. And that the aforeſaid <hi>Rawlin, William, Roger, John, Thomas, Jeoffery, Vincent, John, John, Richard</hi> and <hi>John,</hi> Tenants afore<g ref="char:EOLhyphen"/>ſaid, and all the other Tenants and Reſiants, their heirs, and all thoſe which hereafter ſhall have their eſtate, or parcel of their eſtate, may fiſh through all the waters and waſtes of the ſaid Iſle, without impediment of the Miniſters of the ſaid Lord Sir <hi>John Mowbray,</hi> except the Skires aforeſaid. And alſo that they may dig Turf, and all other manner of earth, in all the waſtes afore<g ref="char:EOLhyphen"/>ſaid, to carry and improve their land at their pleaſure. And that none of the Tenants aforeſaid, or of their heirs, or of thoſe having their eſtate impeached of Treſpaſs by the Miniſters of the ſaid Lord, be amerced for Treſpaſs without anſwer given in Court; and then by their Peers to be fined and taxed if they be amerciable. And the ſaid <hi>John</hi> granteth that all the Tenants and their heirs, and all thoſe which ſhall have their eſtate, which are bound to incloſe the Woods of the Lord, may take <g ref="char:V">Ʋ</g>nder<g ref="char:EOLhyphen"/>wood to make them new hedges, or to repair them, as much as ſhall be neceſſary, That is to ſay <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                     <note place="margin">This blank place cannot be read in the Deed.</note> in the places of the ſaid Woods <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> of the ſaid Tenants, their heirs, and of thoſe which ſhall have their eſtate, without being impeached or grieved by the Mini<g ref="char:EOLhyphen"/>ſters of the ſaid Lord Sir <hi>John Mawbray.</hi> And the ſaid <hi>John</hi> granteth for him and his heirs, that all the things &amp; Articles a<g ref="char:EOLhyphen"/>foreſaid
+<pb n="7" facs="tcp:35015:5" rendition="simple:additions"/>be of effect and force in the law, as well to thoſe which are generally named Tenants, and their heirs, as thoſe which ſhall have their eſtate, or parcel of their eſtate, as to thoſe which are named by proper names, and their heirs, and thoſe which ſhall have their eſtate, or parcel of their eſtate. And if in the Articles aforeſaid, there be any point, which may have divers interpretations or intendments, that it ſhall be taken to the beſt advantage of the names or of the Tenants aforeſaid, and of their heirs, or of thoſe which ſhall have their eſtate, and not otherwiſe.</p>
+                  <closer>
+                     <dateline>In witneſs whereof, the Parties aforeſaid have interchange<g ref="char:EOLhyphen"/>ably put their Seals. Given at our Mannor of <hi>Epworth</hi> 
+                        <date>the firſt day of <hi>May,</hi> in the yeer of the Reigne of <hi>Edward</hi> the Third, af<g ref="char:EOLhyphen"/>ter the Conqueſt, thirty three.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>The teſtimony of ancient witneſſes in depoſitions upon record in the Exchequer, make it clearly appear, that all things have gone according to this Deed within the ſaid Mannor till now of late, that the projectors uſurped a poſſeſſion againſt law. Upon that Deed, when I firſt undertook to Solicite this buſineſs for the Freeholders, I took the ſeveral opinions of Sir</hi> Robert Berkeley, <hi>Maſter</hi> Maynard, <hi>and Maſter</hi> Hale, <hi>not making any of them acquainted with the others opinion, becauſe I would be certain of the validity of the ſaid Deed; and the chief queſtion I put in writing to them was, whe<g ref="char:EOLhyphen"/>ther the Deed did debar the King of improvement, to which I had their ſeveral judgements it did, Sir</hi> Rober Berkeley <hi>giving it thus under his hand, which I have yet to ſhew: ſaith he,</hi>
+            </p>
+            <floatingText xml:lang="eng" type="legal_opinion">
+               <body>
+                  <p>I think it doth, if the Lord <hi>Mowbray</hi> had eſtate in Fee. For as I conceive it is more then a covenant, and makes the improvement by the King unwarranted by <hi>Merton</hi> or any other Statute.</p>
+                  <closer>
+                     <signed>Ro. Berkeley.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Maſter <hi>Hale</hi> gave his anſwer (which I have alſo under his hand) thus: ſaith he,
+
+<q>I conceive the Deed is a real diſcharge and bindes the lands into whoſe hands ſoever it comes, and conſequently the king cannot improve.</q>
+
+He further adds,
+
+<floatingText xml:lang="eng" type="legal_opinion">
+                  <body>
+                     <p>That he conceives the benefit of this Deed extends to all the tenants, aſwell thoſe that are not na<g ref="char:EOLhyphen"/>med, as thoſe that are named, and gives his reaſons.</p>
+                     <p n="1">
+                        <pb n="8" facs="tcp:35015:6" rendition="simple:additions"/>1. Becauſe the Lord cannot incloſe againſt thoſe that are named, and conſequently there can be no improvement againſt any.</p>
+                     <p n="2">2. Which he ſaith he principally doth rely upon, becauſe it is a real diſcharge of the waſt of that liberty of improvement, which the ſtatute gave him; and that though tenants be not a ſufficient name of purchaſe at this day in point of intereſt, it is in point of diſ<g ref="char:EOLhyphen"/>charge.</p>
+                     <closer>
+                        <signed>Math. Hale.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>Maſter <hi>Maynard</hi> gave his opinion, that it paſt an intereſt, and therefore the King could not improve againſt it.</p>
+            <p>It is clear by ſeveral inquiſitions upon record in the Tower, Firſt, That the ſaid Sir <hi>John Mowbray</hi> dyed ſeiſed of all the ſaid Iſle; and namely,</p>
+            <p>
+               <bibl>In bundello Eſcaet. de Anno Regni Regis Edw. tertii quadra<g ref="char:EOLhyphen"/>geſimo tertio, par. 2. num. 7. <hi>ſic continetur.</hi>
+               </bibl>
+
+               <floatingText xml:lang="lat" type="inquisition">
+                  <body>
+                     <head>Inquiſitio capta apud Kirton in Lyndſey die Sabbati prox. ante feſtum Annunciationis beatae Mariae virginis, Anno Regni Regis Edw. tertii poſt conqueſtum quadrageſimo tertio, coram Waltero de Kelſey Eſcaetore Domini Regis in Com. Lincol. vir<g ref="char:EOLhyphen"/>tute brevis Domini Regis eid. Eſcaetori direct. &amp; huic inquiſi<g ref="char:EOLhyphen"/>tioni conſuti per ſacramentum Richardi de Belwood,</head>
+                     <p>
+                        <note place="margin">This <hi>Belwood</hi> and <hi>Melton</hi> are two named in Deed of <hi>Mow<g ref="char:EOLhyphen"/>bray.</hi>
+                        </note> 
+                        <hi>Willthelmi de Burnham, Johannis Fowler, Thome de Melton, Johannis Tanchard de Eppworth, Will. Gray de eadem, Will. Bellingham de eadem, Will fili<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> Gilberti de eadem<g ref="char:punc">▪</g> Will. Elers de e<g ref="char:EOLhyphen"/>dem, Johannis Bird de eadem, Henrici Withe de eadem, &amp; Roberti de Swynton de eadem, Jurat. qui dicunt ſuper ſacra<g ref="char:EOLhyphen"/>mentum ſuum, quod Johannis de Mowbray Chivalr. defunctus, obiit ſeiſit de Inſula de Axhol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>.</hi> &amp;c. <hi>Et dieun<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>, quod Johannes, filii praedicti Johannis de Mowbray eſt filius &amp; haeres predicti Johannis de Mowbray Chr. defunctus pro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>inquior, &amp; eſt aetatis quin<expan>
+                              <am>
+                                 <g ref="char:abque"/>
+                              </am>
+                              <ex>que</ex>
+                           </expan> Annorum &amp; amplius. In cujus rei teſtimonum predicti jurat huic Inquiſitioni ſigilla ſua appoſueris.</hi> &amp;c.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <pb n="9" facs="tcp:35015:6" rendition="simple:additions"/>
+            <p>
+               <bibl>In bundello Eſcaet. de Anno ſexto Richardi ſecundi, <hi>nu m.</hi> 58. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> continetur ſic.</bibl>
+
+               <floatingText xml:lang="lat" type="inquisition">
+                  <body>
+                     <head>
+                        <hi>Inquiſitio capta apud Gaynſburgh die Martis prox. poſt feſtum ſacrae Petronellae virginis, Anno Regni Regis Richardi ſecundi poſt conqueſtu<g ref="char:cmbAbbrStroke">̄</g> ſexto coram Will. de Skipwith Eſcaetore domini regis in com. Lincol. virtuta brevis dict. Domini regis eidem Eſcaetor direct. per ſacramentum Roberti Sheffield de Butterwick,</hi> &amp;c.</head>
+                     <p>
+                        <hi>Qui dicunt ſuper ſacramentum ſuum, quod Johannis Mowbray Chr. obiit ſeiſit de Manerio de Epworth cum pertinent. ut de feodo in Inſula de Haxiholm,</hi> &amp;c. <hi>poſt cujus mortem dominus Rex Edvardus aevus Regis nunc ſeiſivit manerium predictum cum pertinen.</hi> &amp;c. <hi>ratione minoris aetatis Johannis Mowbray comit. Nottingham fil. &amp; haered. dict. Johannis Mowbray Chr. qui mortuus eſt</hi> &amp;c.</p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>The long continued race of the <hi>Mowbrayes,</hi> Dukes of Nor<g ref="char:EOLhyphen"/>folk alſo appears in the Tower to be Lords of the ſaid Mannor, and how <hi>John</hi> Lord <hi>Mowbray,</hi> father of this <hi>John</hi> that made the Deed, being in rebellion with thoſe Barons that accompained the Duke of Lancaſter, who was beheaded at <hi>Pomfret,</hi> was amongſt all the reſt of the Lords in that inſurrection, reſtored by Act of Parliament <hi>Ann.</hi> 4 <hi>Ed.</hi> 3. to all his lands. And how <hi>Elizabeth.</hi> dowager of <hi>Thomas</hi> lord <hi>Mowbray,</hi> who was grandchild to this <hi>John</hi> that made the Deed, had her aſſignation of dower through all the Man<g ref="char:EOLhyphen"/>nor of <hi>Epworth, Ann.</hi> 2. R. 2.</p>
+            <p>The manner of keeping this Deed, hath been in a Cheſt bound with iron in the pariſh-Church of <hi>Haxey</hi> being the greateſt town within the Mannor, by ſome of the chief Freeholders, who had the keeping of the keys, which cheſt ſtood under a window, wherein was the portraicture of <hi>Mowbray</hi> ſet in ancient glaſs, holding in his hand a writing<g ref="char:punc">▪</g> which was commonly reputed to be an emblem of the Deed till now of late, that the glaſs was broken down; this alſo ap<g ref="char:EOLhyphen"/>pears in the depoſitions in the Exchequer.</p>
+            <p>That the ſaid <hi>Mowbray</hi> did in his time approve to himſelf much of the waſts as lord <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppeareth by many ancient Deeds, bearing date before this Deed, yet extant in the Iſle; whereby after he had incloſed the ſame, he granted to others thoſe incloſures.</p>
+            <p>
+               <pb n="10" facs="tcp:35015:7" rendition="simple:additions"/>The Freeholders had a Tryal, Verdict, Judgement, and Ex<g ref="char:EOLhyphen"/>ecution upon it in <hi>Micaelmas</hi> Term, 1651. at the Exche<g ref="char:EOLhyphen"/>quer Bar, by order of that Court, in the name of <hi>Thomas Va<g ref="char:EOLhyphen"/>vaſour</hi> a gentleman of an ancient family, ſon of <hi>Henry Vava<g ref="char:EOLhyphen"/>ſour,</hi> ſon of <hi>Thomas Vavaſour</hi> the Grandfather, ſon of <hi>Henry Vavaſour</hi> the great Grandfather, who married <hi>Jeane</hi> one of the daughters of <hi>Robert Ait-hall,</hi> to whom by partition made between her and <hi>Elizabeth</hi> and <hi>Mary</hi> her ſiſters, the ſame place called Belwood did come, <hi>Robert Ait Hall</hi> was ſon and heir to <hi>Oliver Ait-hall,</hi> who was ſon and heir of <hi>Margery</hi> one of the daughters and co-heirs of <hi>Thomas B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ltoft,</hi> and <hi>Emott</hi> his wife, to whom by partition with <hi>Elizabeth</hi> her <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſter the ſaid place called Bellwood came. <hi>Emot</hi> was daughter and heir to <hi>Richard de Bellewood</hi> who is one of the eleven ſpeci<g ref="char:EOLhyphen"/>ally named in the ſaid Deed of <hi>Mowbray</hi> and lyeth intombed in the Pariſh Church of Belton, in a Tombe called Belwood Tombe; ſo as it is clear the ſaid <hi>Thomas Vavaſour,</hi> in whoſe name the Freeholders had their Verdict, hath both the ſame eſtate that <hi>Richard de Bellewood</hi> now about three hundred yeers ſince had, derived to him by Deeds under ſeal; and is alſo of blood unto him lineally deſcended from him.</p>
+            <p>This is the firſt Tryal that the Freeholders could ever obtain in twenty yeers time; at which Tryal it did alſo appear by the teſtimony of ancient witneſſes, that the Freeholders had alſo common in groſs, againſt which no improvement can by law be made, neither was this tryal had before there was an hearing in equity of an Engliſh bill, which the Participants exhibited in the Exchequer to ſtay the Freeholders ſuits at law, which bill was four or five yeers in hearing; and the Decree made upon the full hearing thereof in <hi>Feb</hi> 1650 doth eſtabliſh the poſſeſſion no otherwiſe with the Participants, then it was when that bill was exhibited, which was but in Trinity Term, 1646. at which time there was four thouſand acres of the ſaid ſeven thouſand four-hundred acres in controverſie in the poſſeſſion of the Freeholders, and that decree gives way to go to Tryal at law for the reſt; and therefore I deſire that the equivocati<g ref="char:EOLhyphen"/>on of Maſter <hi>Say</hi> and Maſter <hi>Darley</hi> in the third folio of their report, as to the poſſeſſion by that Decree may be obſerved
+<pb n="11" facs="tcp:35015:7" rendition="simple:additions"/>when the report ſhall be brought in.</p>
+            <p>And now may it pleaſe your honors, I ſhall truly inform you of the proceedings at law, in a brief thus, <hi>viz.</hi>
+            </p>
+            <p>In Hillary Term, 1645. the Freeholders commenced their ſuites at law againſt the Participants, to try their title to the ſaid lands.</p>
+            <p>In Trinity Term following, <hi>viz.</hi> 1646. (and not in 1642. as the Participants in their Petition to the late Parliament falſly ſuggeſt) the participants exhibited an Engliſh Bill in the Ex<g ref="char:EOLhyphen"/>chequer to ſtay thoſe ſuites at law, and to have the poſſeſſion of the whole ſeven thouſand four hundred acres in controverſie eſtabliſhed with them.</p>
+            <p>
+               <note place="margin">
+                  <hi>Quere,</hi> Whe<g ref="char:EOLhyphen"/>ther Mr. <hi>Say</hi> hath not con<g ref="char:EOLhyphen"/>cealed this De<g ref="char:EOLhyphen"/>cree from the Committee of the Counſel of State, and <hi>vide</hi> the Decree, and Mr. <hi>Say's</hi> equivocation thereupon in <hi>folio</hi> 3. <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h's report touch<g ref="char:EOLhyphen"/>ing the poſſeſ<g ref="char:EOLhyphen"/>ſion.</note>In Michaelmas Term, 1650. that Bill came to full hearing, and the Decree then made doth eſtabliſh the poſſeſſion no o<g ref="char:EOLhyphen"/>therwiſe with them, then it was when that Bill was ex<g ref="char:EOLhyphen"/>hibited.</p>
+            <p>Where pray Note, That about four thouſand acres of the ſaid ſeven thouſand four hundred acres had been then about five yeers before the Bill was exhibited in the Freeholders poſ<g ref="char:EOLhyphen"/>ſeſſion, in which caſe all reſtitution of poſſeſſion, under colour of a Ryot, is by law excluded.</p>
+            <p>Note alſo, That Decree gives way to the Freeholders to go to tryal at law for the reſt.</p>
+            <p>There being now about one hundred charged as Ryotors, It is humbly ſubmitted,</p>
+            <p>Whether all the reſt of the Freeholders and Commoners, being above a thouſand, ſhall ſuffer the loſs of their poſſeſſion ſo left unto them as aforeſaid by the ſaid Decree, upon the full hearing of the Participants own Bill in equity, and afterwards wholly recovered by the Freeholders at law, upon a Verdict, in the name of one that was no Ryoter.</p>
+            <p>And two things there are obſervable touching that windemill mentioned in the Act of Oblivion, wherein the inhabitants are exempted from mercy, as touching the Ryots committed in the Iſle of Axholm</p>
+            <p>The firſt is, That it was taken in execution at the ſuit of the ſaid <hi>Vavaſour,</hi> foreighty pound coſts, and twelve pence dam<g ref="char:EOLhyphen"/>ages
+<pb n="12" facs="tcp:35015:8" rendition="simple:additions"/>given unto him by the Jury, and the money was paid.</p>
+            <p>The ſecond is, that a tenant to the Participants, who was owner thereof, did in his heat of blood, preſently after it was thrown down, bring his action of treſpaſs at law againſt a Freeholder in the Iſle for throwing down that windemill, three houſes, and one barn: to which the Freeholder (being defen<g ref="char:EOLhyphen"/>dant) having pleaded, the Participants durſt neither let the plaintiff (their tenant try the cauſe himſelf, nor let the De<g ref="char:EOLhyphen"/>fendant try it, prays upon record to diſcontinue their own action, and to pay the Defendant coſts (leſt he ſhould try it) which they did accordingly, and paid fourty ſhillings coſts to the Defendent.</p>
+            <p>Right honorable, now I have informed your honors of the le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al parr, give me leave, I humbly beſeech you on the Free<g ref="char:EOLhyphen"/>holders behalf to lay down before you their equitable part to the grounds in queſtion, no otherwiſe then was proved before the late Committee of Parliament by many witneſſes no way intereſted if Maſter <hi>Say</hi> have taken the depoſitions, or rather returned them aright, as they were or ought to have been taken, whereof to this day the Freeholders never had copies, a though Maſter <hi>Gibbon</hi> long ſince had copies delivered out; Nay, 'tis like I ſhall prove Maſter <hi>Say</hi> delivered out the very Original to him to copy forth, by which means Maſter <hi>Gibbon</hi> and his friends quoted ſuch witneſſes, whoſe depoſitions made beſt for them upon the margent of the report or a copy thereof thereby to delude the Honorable Committee of the Councel of State, and left out many of the witneſſes whoſe teſtimonies make againſt them, and by concealing the Decree and other writings in Maſter <hi>Sayes</hi> hands, and other the means aforeſaid, have obtained a ſecond report; of all which I am bound in conſcience to inform your Honors, leſt by ſilence, ignorance deſtroy this cauſe, and loſe the Freeholders poſſeſſion, which muſt needs attend thoſe reports to your Honors, if nothing elſe ſhould appear but the ugly ſhape of a pretended Ryot; for by Maſter <hi>Sayes</hi> report onely, the plot is ſo laid, that your Ho<g ref="char:EOLhyphen"/>nors cannot poſſibly ſee the truth, and the Freeholders have cauſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o fear an Honorable and brave Worthy, ſeeing nothing but a pretended Ryot (and being joyned with Maſter <hi>Scob<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l</hi>
+               <pb n="13" facs="tcp:35015:8" rendition="simple:additions"/>your Clark, as of the Committee of the Counſel of State, and never knowing how the proceedings at law are gone) hath been miſled to ſign a report, which whether it be contrary to law and equity, as to the Freeholders loſs of poſſeſſion in the ſaid grounds, or not, is humbly ſubmitted to your honors when it ſhall come to your view, being compared with the depoſitions, which on the Freeholders part (if rightly taken by Maſter <hi>Say,</hi> whereof they have juſt occaſion to doubt) will clearly appear to be thus in point of equity, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That the grounds before the pretended draining, which the Parti<g ref="char:EOLhyphen"/>cipants took from the Freeholders, was moſt of it worth fifteen ſhillings and twenty ſhillings an acre <hi>per ann.</hi> and ten ſhillings an acre one with an<g ref="char:EOLhyphen"/>other throughout.</p>
+            <p n="2">2. That it did feed all manner of Cattel, fat for the Butcher.</p>
+            <p n="3">3. That the very beſt ground was taken from the Commoners.</p>
+            <p n="4">4. That the Freeholders cannot keep half the cattel winter and ſum<g ref="char:EOLhyphen"/>mer,<note place="margin">Thomas Tailor, Thomas Farr, Iſaac Chapman, Tho<g ref="char:EOLhyphen"/>mas Todd, Thomas Phi<g ref="char:EOLhyphen"/>lips, William Maw, John Brown, Robert Dyneley, <hi>Eſq.</hi> John Clarke, John Jerviſe, <hi>and others.</hi>
+               </note> levant and couchant, upon their ſeveral tenements as they could before that pretended draining.</p>
+            <p n="5">5. That they are compelled to joyſt their cattel out in foraign places, and to turn their Meadow grounds into paſture.</p>
+            <p n="6">6. That divers of the Freeholders ſold their eſtates in the Iſle, and pro<g ref="char:EOLhyphen"/>vided themſelves habitations elſwhere in foraign places, meerly becauſe of oppreſſions in theſe particulars.</p>
+            <p n="7">
+               <pb n="14" facs="tcp:35015:9" rendition="simple:additions"/>7. That the Participants have ta<g ref="char:EOLhyphen"/>ken away the very heart of the ground.</p>
+            <p n="8">8. That the South part of the Mannor of <hi>Epworth,</hi> left to the in<g ref="char:EOLhyphen"/>habitants, is as ſubject to be ſurroun<g ref="char:EOLhyphen"/>ded with waters ſince the pretended draining, as it was before.</p>
+            <p n="9">9. That the ground before the draining was better in Summer for the overflowings of waters that had been in Winter.</p>
+            <p n="10">10. That the Participants at their firſt coming into thoſe parts, did but deſire to cut through the Mannor of <hi>Epworth,</hi> to drain <hi>Hatfield</hi> Chaſe, and many other Mannors that lye on the Weſt of the ſaid Mannor,<note place="margin">Thomas Farr, Timothy El<g ref="char:EOLhyphen"/>lis <hi>Clarke,</hi> Thomas Todd, <hi>and</hi> Thomas Tailor.</note> into the river of <hi>Trent</hi> that runneth on the Eaſt. And that without cutting through the Mannor of <hi>Epworth, Hatfield</hi> Chaſe, and thoſe other Mannors could not be drained.</p>
+            <p n="11">11. That when the projectors gain<g ref="char:EOLhyphen"/>ed their poſſeſſion, divers of the Com<g ref="char:EOLhyphen"/>moners were murdered and ſhot to death,<note place="margin">Timothy Ellis <hi>Clarke,</hi> Iohn Tompſon, William Wells, Thomas Farr, John Francis.</note> and terrified and affrighted from their habitations by Serjeants at Armes, and Purſuivants, and inforced to lye in the fields under hedges, and many wounded.</p>
+            <p n="12">12. That the Participants have been at no more charge in the Man<g ref="char:EOLhyphen"/>nor of <hi>Epworth,</hi> then cutting a drain
+<pb n="15" facs="tcp:35015:9" rendition="simple:additions"/>of four miles:<note place="margin">Thomas Tailor. Thomas Todd.</note> And that they have ſtopped up ſome ancient Sewers that were as uſeful in the Mannor.</p>
+            <p>And now grave Senators, though the buſineſs be clear in law for the Freeholders, and that there ſhould be alſo all the equity that could be imagined for them in it; yet if Maſter <hi>Say</hi> have been ſuch a man to mince, conceal, omit, and wreſt the teſtimonies of the Free<g ref="char:EOLhyphen"/>holders witneſſes in the depoſitions, either as he was Chaireman in the firſt penning of them, or in the returning of them in to the honor<g ref="char:EOLhyphen"/>able Committee of the Councel of State, and withholding any eſſen<g ref="char:EOLhyphen"/>tial writings, or denying any to be made out that ought and was of<g ref="char:EOLhyphen"/>fered by the Freeholders to have been made forth in this matter (which the Freeholders doubt not but to prove, having once copies of depoſitions, as Maſter <hi>Gibbon</hi> long ſince had from Maſter <hi>Say</hi>) I ſay in this caſe, though the caſe was never ſo good, and before ne<g ref="char:EOLhyphen"/>ver ſo righteous Judges; yet being lodged in a report ſo partially and wickedly drawn up, as this of Maſter <hi>Darley</hi> is, and preſented to your honors in no other ſhape and form then Maſter <hi>Say</hi> hath dreſt it, I cannot but ſee how ruine and deſtruction ſhould unavoi<g ref="char:EOLhyphen"/>dably fall upon thoſe that before God, and in the eye of the law are clear. And therefore I beſeech you blame me not, though I have preſumed thus to write, for it concerns many thouſands, men, wo<g ref="char:EOLhyphen"/>men and children, for whom I have been intruſted now almoſt eight yeers as Solicitor, and it concerns alſo my ſelf for this cauſe ſake very neerly, as your honors may perceive by that laſt plotted and contriv<g ref="char:EOLhyphen"/>ed device of Maſter <hi>Gibbon</hi> and his participants (when it was clear that neither law nor equity would relieve them) in their peti<g ref="char:EOLhyphen"/>tion to the late Parliament, which followeth <hi>verbatim.</hi>
+            </p>
+            <q>
+               <pb n="16" facs="tcp:35015:10" rendition="simple:additions"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the Supream Authority of this Nation, the Parliament of the Common<g ref="char:EOLhyphen"/>wealth of England.</head>
+                        <head type="sub">The humble Petition of the Participants in the Drain<g ref="char:EOLhyphen"/>ing of the Level of <hi>Hatfield</hi> Chaſe, in the Counties of <hi>York, Lincoln,</hi> and <hi>Nottingham,</hi> whoſe names are hereunto ſubſcribed, on the behalf of themſelves and others,</head>
+                        <opener>Sheweth,</opener>
+                        <p>
+                           <hi>THat the Petitioners, and theſe under whom they did claim, did about twenty four yeers ſince, at the expence of neer two hundred thouſand pounds, drain and lay dry ſixty thouſand acres of ground in the ſaid Level then drowned, and of ſmall value, and made the ſame worth ten ſhillings, twelve ſhillings, and ſixteen ſhillings the acre. And as a recompence for their ſaid charge, hazard and travel in ſo publike a work<g ref="char:punc">▪</g> the propor<g ref="char:EOLhyphen"/>tion of about twenty four thouſand acres of the ſaid lands; where<g ref="char:EOLhyphen"/>of ſeven thouſand four hundred acres of the waſts of the Man<g ref="char:EOLhyphen"/>nor of</hi> Epworth <hi>was part, was ſettled upon them by good</hi>
+                           <note n="*" place="margin">Note that the Partici<g ref="char:EOLhyphen"/>pants notwith<g ref="char:EOLhyphen"/>ſtanding this, durſt not pro<g ref="char:EOLhyphen"/>duce either their Patent or any other pretended aſ<g ref="char:EOLhyphen"/>ſurance at the time of the examination; neither were the Freehold<g ref="char:EOLhyphen"/>ers ſuffered to make forth their title, done by it.</note> 
+                           <hi>aſſu<g ref="char:EOLhyphen"/>rances in the law, as will appear to your honours upon the exa<g ref="char:EOLhyphen"/>mination thereof, and are too long here to inſert: and according to the ſaid aſſurances, the Petitioners had quiet and peaceable poſſeſſion of the lands, and ſo injoyed the ſame for many yeers, and divided, improved and planted the ſame, and in particular, upon the ſeven thouſand four hundred acres of</hi> Epworth, <hi>built a Church,</hi>
+                           <note n="†" place="margin">This Church is yet unpaid for, the man that built it, was un.</note> 
+                           <hi>and about one hundred and ſixty habitations and have conſtantly paid the rent of</hi> 1228 <hi>l.</hi> per ann. <hi>which was then re<g ref="char:EOLhyphen"/>ſerved upon the ſaid whole proportion, and now payable to the State for ever.</hi>
+                        </p>
+                        <p>
+                           <pb n="17" facs="tcp:35015:10" rendition="simple:additions"/>
+                           <hi>That in the yeer</hi> 1642 <hi>in time of the war, ſome of the in<g ref="char:EOLhyphen"/>habitants of the Mannor of</hi> Epworth, <hi>by the inſtigation of one</hi> Daniel Noddel <hi>an Attourney at law, did riſe in tumults, and laid waſt about four thouſand acres of the ſaid ſeven thouſand four hundred acres; demoliſhed the buildings and deſtroyed the crops of corn and Rapeſeed, growing thereupon: for redreſs whereof, and eſtabliſhing their poſſeſſion the petitioners exhibited</hi>
+                           <note n="*" place="margin">This bill was exhibited for ſtay of the Freeholders ſuits at law in Trinity Term, 1646. when the Freeholders had had poſ<g ref="char:EOLhyphen"/>ſeſſion above four yeers be<g ref="char:EOLhyphen"/>fore.</note> 
+                           <hi>their bill in the Court of Exchequer, who granted ſeveral In<g ref="char:EOLhyphen"/>junctions, and made ſeveral Orders to the Sheriffs for quieting the poſſeſſion; but the tumults growing too great to be ſuppreſt by the ordinary Courts of Juſtice, the petitioners had recourſe to the Parliament, who were pleaſed to make ſeveral Orders</hi>
+                           <note n="†" place="margin">They never had any order of Parliament, but out of the Houſe of Lords upon a ſuppoſed Ryot, which being heard at the Lords Bar, the parties complained on were diſ<g ref="char:EOLhyphen"/>miſt, and are now for that very thing complained on.</note> 
+                           <hi>therein for relieving the Petitioners; which likewiſe were con<g ref="char:EOLhyphen"/>temned, and the petitioners by force ſtill kept out of the poſſeſſion of the ſaid four thouſand acres.</hi>
+                        </p>
+                        <p>
+                           <hi>That the Ryoters ſeeing them go unpuniſhed for their former inſolencies and rebellions againſt the law and government of this State; and having now got the countenance of Lieutenant Colo<g ref="char:EOLhyphen"/>nel</hi> Lilburn, <hi>and Major</hi> Wildman, <hi>did in</hi> October 1650. <hi>whilſt the cauſe was hearing in the Exchequer, riſe in tumult, and de<g ref="char:EOLhyphen"/>ſtroyed the Corn and cropps growing upon the reſidue, being a<g ref="char:EOLhyphen"/>bout three thouſand four hundred acres of the ſaid ſeven thouſand four hundred acres; whereof the Court being informed, granted a</hi>
+                           <note n="*" place="margin">This writ gave no pow<g ref="char:EOLhyphen"/>er to the She<g ref="char:EOLhyphen"/>riff, but againſt ſuch as were parties to a decree in the Exchequer, in the twelfth yeer of the late King, which Maſter <hi>Gibbon</hi> dare not produce, and thoſe which then put down the banks, did it in a peaceable and legal way, and were no parties to that Decree.</note> 
+                           <hi>Writ of aſſiſtance to the Sheriff, to quiet the poſſeſſion, who comes upon the place, and is there reſiſted, and in his preſence the fences thrown down.</hi>
+                        </p>
+                        <p>
+                           <hi>In Hillary Term</hi> 1650. <hi>the Court upon full hearing,</hi>
+                           <note n="†" place="margin">By this De<g ref="char:EOLhyphen"/>cree the court doth eſtabliſh the poſſeſſion no otherwayes with the Participants, then it was when the Bill was exhibited, at which time the four thouſand acres aforementioned in this petition, had been in the poſſeſſion of the Freeholders neer five yeers.</note> 
+                           <hi>De<g ref="char:EOLhyphen"/>cree and eſtabliſh the poſſeſſion with the petitioners, which de<g ref="char:EOLhyphen"/>cree coming to be publiſhed on the place (having now the in<g ref="char:EOLhyphen"/>fluence
+<pb n="18" facs="tcp:35015:11" rendition="simple:additions"/>of Maſter</hi> Lilburn, <hi>theſe ryoters with high and re<g ref="char:EOLhyphen"/>proachful language, contemne it: and being adviſed to give obe<g ref="char:EOLhyphen"/>dience, or elſe the Parliament muſt be acquainted with it, they anſwered it was a traiterous order, and that they would obey neither Barons nor the Parliament, and that they could make as good a Parliament themſelves; and that if the Parliament ſent forces againſt them, they would raiſe forces and reſiſt them and then proceed to demoliſh the houſes of the town of</hi> Santoft <hi>with a</hi>
+                           <note n="*" place="margin">And was not the wind emill, and all the houſes worthy to be removed (though not in that man<g ref="char:EOLhyphen"/>ner) when there was nei<g ref="char:EOLhyphen"/>ther law nor equity they ſhould ſtand? Alas poor commoners! the fault (if any) was in this, that (af<g ref="char:EOLhyphen"/>ter twenty yeers time you could have no tryal, and Maſter <hi>Gibbon</hi> ſaying you ſhould never have any ſo long as you were quick) I ſay the fault of a few of you was in this, that you did it by force, for which I hope there is mercy to be had.</note> 
+                           <hi>windemill and deface the Church.</hi>
+                           <note n="†" place="margin">The houſes were built of the Freeholders own wood, taken out of the ground.</note>, <hi>all built by your petiti<g ref="char:EOLhyphen"/>oners and their tenants. Then your petitioners applied them<g ref="char:EOLhyphen"/>ſelves to the Councel of State who were pleaſed to ſend an order to the Sheriff of the County of</hi> Lincoln <hi>on the petitioners behalf, but during thoſe tranſactions the ryoters in contempt of authority and law brake the houſes, fetch away the tenants cattle and im<g ref="char:EOLhyphen"/>pound them, and would admit of no</hi>
+                           <note n="*" place="margin">The Participants dare not try the cauſe, either by Replevir or o<g ref="char:EOLhyphen"/>therwiſe at law; if they will, we offer it when they will.</note> 
+                           <hi>Replevines, but forced them to redeem them at what rate they pleaſed; and proceeded to demoliſh all, both houſes and barns and all other buildings, and deſtroy all the corn there growing, and fetch away the ma<g ref="char:EOLhyphen"/>terials of thoſe buildings by force. to the damage</hi>
+                           <note n="†" place="margin">What damage can be done to thoſe that have no title?</note> 
+                           <hi>of the petiti<g ref="char:EOLhyphen"/>oners &amp; their tenants in the whole fourty thouſand pound. beſides the damage to the Commonwealth in general, by deſtruction of ſo many habitations and plows for tillage and husbandry.</hi>
+                        </p>
+                        <p>
+                           <hi>The whole proportion of ſeven thouſand four hundred acres within this Mannor being thus laid waſt, the ſaid</hi> Lilburn, Wild<g ref="char:EOLhyphen"/>man <hi>and</hi> Noddel, <hi>with divers of the Ryoters ride and view it, and then they make agreement with divers of the moſt notorious ry<g ref="char:EOLhyphen"/>oters, that for two thouſand acres of that land to be given to</hi> Lil<g ref="char:EOLhyphen"/>burn, <hi>where he would make election, and</hi> 200 <hi>to</hi>
+                           <note n="*" place="margin">I refer this to the contra<g ref="char:EOLhyphen"/>diction of the Participants own witneſs in the depoſiti<g ref="char:EOLhyphen"/>ons, and upon a fair examin<g ref="char:EOLhyphen"/>ation ſhall produce many witneſſes, that there was no ſuch agreement made, and God will one day reveal it, whether any ſuch agreement was made, and how the witneſſes were in that point wreſted.</note> Noddel,<note n="†" place="margin">Neither is there the leaſt proof, that the 200 acres were given to me up<g ref="char:EOLhyphen"/>on any ſuch ſcore, if the depoſitions were truely taken, whereof yet I never had copies.</note> 
+                           <hi>they
+<pb n="19" facs="tcp:35015:11" rendition="simple:additions"/>would defend them againſt all fines and other troubles concern<g ref="char:EOLhyphen"/>ing the Ryots before mentioned, and defend them againſt theſe petitioners for the other five thouſand two hundred acres. And preſently after this, they took the ſame two thouſand two hun<g ref="char:EOLhyphen"/>dred acres into their poſſeſſion, worth at leaſt</hi> 1600 <hi>l.</hi> per an. <hi>and ſo made at the charge of the petitioners, and have contract<g ref="char:EOLhyphen"/>ed to let proportions, and have entered upon one houſe, and re<g ref="char:EOLhyphen"/>edified the ſame, and keep poſſeſſion thereof. And on the</hi> 19. <hi>of</hi> October <hi>laſt, being the Lords day,</hi> Lilburn <hi>with a great num<g ref="char:EOLhyphen"/>ber armed came to the Church, and there forc't away the Mi<g ref="char:EOLhyphen"/>niſter and congregation, ſaying, He ſhould not preach there un<g ref="char:EOLhyphen"/>leſs they were ſtronger then he; and now makes it a place to lay his hay, and a ſlaughter houſe to kill Cattel in. And during his abode in the Country, practiſed with the inhabitants of other Mannors to do the like as</hi> Epworth <hi>had done, ſaying that decrees were illegal. And to make the preſent Goverument odious, ſpeaks high reproachful and ſeditious language againſt the Par<g ref="char:EOLhyphen"/>liament and preſent government, as will appear upon examina<g ref="char:EOLhyphen"/>tion.</hi>
+                        </p>
+                        <p>The Petitioners moſt humbly beſeech your honors to take into your conſideration,</p>
+                        <list>
+                           <item>1. <hi>The great diſobedience to the Parliament and Courts of Juſtice, and contempt of preſent Goverument.</hi>
+                           </item>
+                           <item>2. <hi>The great damage to the Commonwealth in general, and in particular to your Petitioners and their tenants, to the value of at leaſt fourty thouſand pound.</hi>
+                           </item>
+                           <item>3. <hi>The conſequence of ſuch unparallel'd and rebellious ryots, and to direct ſuch a way for the Petitioners reparation and dam<g ref="char:EOLhyphen"/>age, and future preſervation of this level, as to your grave wiſ<g ref="char:EOLhyphen"/>dome ſhall be thought meet.</hi>
+                           </item>
+                        </list>
+                        <closer>
+                           <signed>And your Petitioners ſhall pray <hi>&amp;c</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>This petition being ſigned by Maſter <hi>Gibbon,</hi> and four or five more, who term themſelves participants; It is humbly deſired on the Freeholders behalf, whether any beſides Maſter <hi>Gibbon</hi> (who is onely the viſible proſecuter) will ſo own it, as to be anſwerable for thoſe great expences that the inhabitants have been and are drawn
+<pb n="20" facs="tcp:35015:12" rendition="simple:additions"/>in this buſineſs: and that the manifold illegalities extravagancies and incertainties therein may be conſidered, eſpecially herein, that under the charge of theſe general words <hi>[ſome inhabitants of Epworth]</hi> many perſons are now mixt together in the report, as ryoters, with<g ref="char:EOLhyphen"/>out knowing their particular charges, which certainly is contrary to all proceedings at law, which hath provided ſo wiſely and tenderly for the lives and eſtates of all in this Commonwealth, that in things criminal every man ought to have his particular charge given, as touching the matter of crime, the time when, place where, and the perſon by whom it was committed, with his name and ſirname, his addition and place of abode; to th' intent the party accuſed may make his legal defence thereunto: but in the report of Maſter <hi>Say</hi> and Ma<g ref="char:EOLhyphen"/>ſter <hi>Darley,</hi> all are wined ſo confuſedly together, as every man hath juſt occaſion to ſay it was impoſſible for him to make his defence, Nay it was ſo carryed on by the late Committee of Parliament, that when ſome of the honeſt party of that Committee had made an or<g ref="char:EOLhyphen"/>der that every perſon ſhould have his particular charge given in wri<g ref="char:EOLhyphen"/>ting, the very next day after, it was again over-voted and nullified; ſo that Maſter <hi>Luke Robinſon</hi> that honeſt Gentleman, who was of that Committee, then ſaid it was in vaine for to fit.</p>
+            <p>And howſoever for my own particular, I may lye under cenſure by reaſon of this petition, and the proceedings thereupon, yet it will be for your honours, to cauſe the depoſitions to be throughly peruſed, aſwell on the Freeholders part as on the other, whereby you will then come to know how Maſter <hi>Say</hi> and Maſter <hi>Darley</hi> have in ten line, lockt up and impriſomed the truth of above twenty witneſſes which the Freeholders had attending here in <hi>London</hi> about a twelvemoneth ſince, neer half a yeer before they could be examin<g ref="char:EOLhyphen"/>ed, and yet Maſter <hi>Gibbons</hi> witneſſes in a moneths time at the moſt, had a quick diſpatch, and Maſter <hi>Say</hi> and Maſter <hi>Darley</hi> have ſtretch't out neer two hundred lines in the report out of their depoſi<g ref="char:EOLhyphen"/>tions for the Participants advantage; and you will then come to know (if Maſter <hi>Say</hi> have dealt fairely in taking the depoſitions) how the witneſſes on both ſides are related, and whether thoſe Maſter <hi>Gibbon</hi> produced were not tenants and farmers to the Participants, and ſwear in expectation to receive damages from the inhabitants, and the ſeveral ages of the witneſſes on both ſides, and how long they have known the grounds.</p>
+            <p>
+               <pb n="21" facs="tcp:35015:12" rendition="simple:additions"/>And now after I have ſhewn both the legal and equitable part of this buſineſs on the behalf of the Freeholders, according to proof up<g ref="char:EOLhyphen"/>on record; I beſeech your honors give me leave to take notice of Maſter <hi>Gibbon</hi> throwing dirt at the Freeholders, and of Maſter <hi>Say</hi> and Maſter <hi>Darley,</hi> how ready they are in their report to mention the leaſt unbeſeeming word that any particular inhabitant hath ſpoken, but altogether omit to make out the inhabitants defence, wherein it was clearly made appear how they have<note n="*" place="margin">
+                  <hi>Witneſſes</hi> Robert Dyneley, John Barnard <hi>Eſq.</hi> Timothy Ellis, <hi>clark, and others.</hi>
+               </note> raiſed and main<g ref="char:EOLhyphen"/>tained at their own charge two foot companies for the Parliament for a long time in the Iſle, and afterwards both at <hi>Belvoir</hi> and elſwhere in England, and divers of them ſince in Scotland did good ſervice.</p>
+            <p>And for my own particular, I have this to ſay to their report, they have paſt my defence very ſleightly over, which I refer to the depoſiti<g ref="char:EOLhyphen"/>ons: and ſince Mr. <hi>Say</hi> hath been ſo cruel as not to afford me the bene<g ref="char:EOLhyphen"/>fit which the houſe of Lords did, but that my own conſtrained examinations to interrogatories in the Exchequer muſt be uſed againſt me (a thing the houſe of Lords refuſed) I beſeech you let all my examination be taken notice of, aſwell as that part they make uſe of to do me hurt. For Maſter <hi>Say</hi> (as a cruel man) though I and the other perſons with me, were after a moneths impriſonment here in <hi>London,</hi> upon a full hearing of Councel on both ſides, at the Bar of the houſe of Lords, diſmiſſed for that very offence mentioned in their report; yet is it revived and made uſe of again, and though I offered to prove the diſmiſſion by ſeveral witneſſes, yet would not Maſter <hi>Say</hi> admit thereof, becauſe the order of diſmiſſion was not to be found; and therefore the juſt and honeſt defence that might have been made thereunto, had it been before any competent Judge, cannot by the report appear to your honours: and though I deſire not to recriminate yet I ſubmit to any, whether it was not as fit Maſter <hi>Say</hi> and Maſter <hi>Darley</hi> ſhould have reported the ſeveral proofs that are againſt Maſter <hi>Gibbon,</hi>
+               <note place="margin">Marmaduke Hardy <hi>and</hi> Ric. Glew <hi>croſs ex<g ref="char:EOLhyphen"/>amined.</hi>
+               </note> whereby his readineſs of in<g ref="char:EOLhyphen"/>clination to the King of <hi>Scotts</hi> appears, expecting through his pre<g ref="char:EOLhyphen"/>valency to be revenged againſt the inhabitants, and giving forth words, that he will raiſe three hundred men with horſe and Armes in his aſſiſtance; I ſay, whether that was not as fit to be reported as ſome words they do report; howſoever,<note place="margin">Rich. Glew. William Wells, Thomas Todd.</note> it is their injuſtice they have not afforded me the benefit of the Croſs examination of the wit<g ref="char:EOLhyphen"/>neſſes that ſwore againſt me, or the benefit † of the reſtimony of
+<pb n="22" facs="tcp:35015:13" rendition="simple:additions"/>thoſe that were brought for me, purpoſe to make their threats good againſt me; but I conclude with this, <hi>God forgive them.</hi>
+            </p>
+            <p>And one thing (May it pleaſe your honours) I crave leave to pub<g ref="char:EOLhyphen"/>liſh for my own vindication againſt the impudence of Maſter <hi>Gib<g ref="char:EOLhyphen"/>bon,</hi> who before the honorable Committee of the Councel of State taxed me with perjury, in an Affidavit I once made in the Exchequer, upon the reading whereof, he ſaid, Baron <hi>Thorpe</hi> affirmed upon the Bench it was falſe, which Affidavit being made upon occaſion of an order which Maſter <hi>Gibhon</hi> ſtrongly laboured for (after the verdict which the Freeholders had in Maſter <hi>Vavaſours</hi> name) to re-inforce the Decretal order of <hi>Febr.</hi> 1650, mentioned in Maſter <hi>Sayes</hi> re<g ref="char:EOLhyphen"/>port; in the drawing up thereof, the Clarks on both ſides attended at Baron <hi>Thorp's</hi> Chamber with the draught of it, and then Baron <hi>Thrope</hi> with his own hand firſt inſerted an exception in the order as to <hi>Vavaſour,</hi> who had obtained a verdict in affirmation of his right: whereupon the Clarks at that time departing with the order, Baron <hi>Thorpe</hi> at another time ſent for the order againe and ſtruck thoſe words forth which he had formerly ſo inſerted concerning <hi>Vavaſour.</hi> This being the ſubſtance of my Affidavit, and I being in the Country when it was read in Court, do not know whether Baron <hi>Thorpe</hi> ſaid it was falſe, or not, otherwiſe then by hearſay. But if he did ſay ſo (as Maſter <hi>Gibbon</hi> taxed me he did) I do here affirm that Baron <hi>Thorpe</hi> did make that alteration of the order in his ſtudy within his chamber in Sergeants Inn in Fleetſtreet (Maſter <hi>Hillary</hi> and Maſter <hi>Payne,</hi> the two Attourneys in the cauſe, being perſent, and I in the room behinde) and if he do deny it, he may aſwell deny his daugh<g ref="char:EOLhyphen"/>ter in law (his wives daughter, the widdow of Maſter <hi>Abraham Vernat,</hi> who was a Participant, and 2 Captaine in Armes for the late King againſt the Parliament) I ſay he may aſwel deny her to claim an intereſt in the grounds in queſtion, as part of her fifth part for her maintenance.</p>
+            <p>I beſeech your honours blame me not, for it is truth I write, and it is my credit I live by; and though I be endeavoured to be rendred o<g ref="char:EOLhyphen"/>dious and clamorous by Maſter <hi>Gibbon,</hi> yet I am intruſted by the Country, and the cauſe is of conſequence to them, and ſo is my cre<g ref="char:EOLhyphen"/>dit to me; and if I bring you any thing but truth, let me anſwer for it.</p>
+            <p>
+               <pb n="23" facs="tcp:35015:13" rendition="simple:additions"/>I ſhould not have been forward thus to have vindicated my ſelf a<g ref="char:EOLhyphen"/>gainſt Maſter <hi>Gibbon,</hi> if his eſtate had been anſwerable; but finding him a liſted priſoner in the upper Bench, and upon the ſeveral Exe<g ref="char:EOLhyphen"/>cutions Outlawries after Judgement, and mean proceſs, he is charg<g ref="char:EOLhyphen"/>ed as followeth, <hi>viz.</hi>
+            </p>
+            <p n="1">1. With Execution to ſatisfie <hi>George Shires</hi> Eſquire, one thou<g ref="char:EOLhyphen"/>ſand two hundred pounds debt, and nine pounds damages.</p>
+            <p n="2">2. And with Execution to ſatisfie Sir <hi>John Littcott</hi> Knight, ſix hundred pounds debt, and ſix pounds damages.</p>
+            <p n="3">3. With Execution to ſatisfie <hi>Thomas Squire,</hi> two hundred pounds debt, and thirty ſhillings coſts.</p>
+            <p n="4">4. With Execution at the Suit of <hi>Richard Read,</hi> for four and fourty pounds debt.</p>
+            <p n="5">5. With Execution at the ſuite of <hi>William Willett,</hi> for two hun<g ref="char:EOLhyphen"/>dred pounds debt, and thirty ſhillings coſts.</p>
+            <p n="6">6. And at the ſuite of <hi>William Denton,</hi> and <hi>Katherin</hi> his wife, Executors of <hi>John Bert,</hi> for two hundred pounds.</p>
+            <p n="7">7. And at the ſuite of <hi>Richard Lane</hi> Gentleman, for two hun<g ref="char:EOLhyphen"/>dred pounds.</p>
+            <p n="8">8. And at ſuite of <hi>William Brown</hi> Eſquire, in treſpaſs upon the caſe, for a thouſand pounds.</p>
+            <p n="9">9. And at ſuite of <hi>James le Roy</hi> for fifty pounds.</p>
+            <p n="10">10. And at ſuit of <hi>Jeſſenben Sabbatt</hi> for fifty pounds.</p>
+            <p n="11">11. And at ſuite of <hi>James Leonards</hi> for thirty pounds.</p>
+            <p n="12">12. And at the ſuite of <hi>Henry Cromwell,</hi> and <hi>Dame Elizabeth</hi> his wife, late named <hi>Elizabeth Lucy,</hi> for four hundred pounds.</p>
+            <p n="13">13. And at ſuite of <hi>Thomas Drinkwater</hi> for ſix hundred pounds.</p>
+            <p n="14">14. And at ſuite of the ſame for ſixty pounds.</p>
+            <p n="15">15. And again at the ſuite of the ſame for ſixty pounds.</p>
+            <p n="16">16. And at ſuite of the ſame for ſixty pounds.</p>
+            <p n="17">17. And at ſuite of the ſame for ſixty pounds.</p>
+            <p n="18">18. And at ſuite of the ſame for ſixty pounds.</p>
+            <p n="19">19. And at ſuite of <hi>Edward Dixon</hi> Eſquire for an hundred pounds.</p>
+            <p n="20">20. And at ſuite of the Lady <hi>Katherin Dyer</hi> widdow, for two hundred pounds.</p>
+            <p n="21">
+               <pb n="24" facs="tcp:35015:14" rendition="simple:additions"/>21. And at ſuite of <hi>John Curſon</hi> for two hundred pounds.</p>
+            <p n="22">22. And in Execution at the ſuit of <hi>Edward Dixon</hi> for an hun<g ref="char:EOLhyphen"/>dred pounds.</p>
+            <p n="23">23. And at ſuite of <hi>Henry Cromwell,</hi> and <hi>Elizabeth</hi> his wife, late named <hi>Elizabeth Lucy</hi> for four hundred pounds.</p>
+            <p n="24">24. And at ſuite of the Lady <hi>Dyer</hi> for two hundred pounds.</p>
+            <p n="25">25. And at ſuite of <hi>Barth. Hall</hi> for eight hundred pounds.</p>
+            <p n="26">26. And at ſuite of <hi>Iohn Marſham</hi> and <hi>Ferdinando Marſham</hi> for fifteen hundred pounds.</p>
+            <p n="27">27. And with Execution at ſuite of <hi>Edward Dixon</hi> Eſquire for an hundred pounds debt and ſeven pounds damage.</p>
+            <p n="28">28. And with Execution at the ſuite of <hi>Barthol. Hall</hi> Eſquire for eight hundred pounds debt, and one pound one ſhilling coſts.</p>
+            <p n="29">29. And with Execution at the ſuite of <hi>Iohn Marſham,</hi> and Ferdinando <hi>Marſham</hi> for fifteen hundred pounds debt, and ſeven pounds and one ſhilling damage.</p>
+            <p n="30">30. And upo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Judgement at the ſuite of <hi>I ſanbar Savatt</hi> for twenty three pounds four ſhillings and ſix pence.</p>
+            <p n="31">31. And with an Order from the Committe of Revennue for ſe<g ref="char:EOLhyphen"/>veral ſums.</p>
+            <p n="32">32. And with Execution at the ſuite of Sir <hi>Edward Fiſh</hi> Baro<g ref="char:EOLhyphen"/>net, for two hundred pounds debt, and one and twenty ſhillings coſts.</p>
+            <p>At the ſuite of <hi>Humphrey Schalcroſs</hi> for debt, one thouſand pounds.</p>
+            <p n="34">34. At the ſuite of the ſame for four hundred pounds debt.</p>
+            <p n="35">35. At the ſuite of <hi>Francis Williamſon</hi> Knight, in a plea of treſpaſs upon the caſe, damage five hundred pounds.</p>
+            <p n="36">36. At ſuite of <hi>Benjamin Thornton</hi> Eſquire for an hundred pounds.</p>
+            <p n="37">37. At the ſuite of Sir <hi>Iohn Lucas</hi> for eight hundred pounds.</p>
+            <p n="38">38. At ſuite of Sir <hi>Thomas Dawes</hi> for a thouſand pounds.</p>
+            <p n="39">39. At ſuit of <hi>Henry Williams</hi> alias <hi>Cromwell</hi> Eſquire, and <hi>Dame Elizabeth Ferrys,</hi> lately called <hi>Elizabeth Lucy</hi> his wife, for four hundred pounds.</p>
+            <p n="40">40. In Execution at the ſuite of Sir <hi>Thomas Dawes</hi> for five pounds coſts according to the Stature.</p>
+            <p n="41">41. Againe, at the ſuite of <hi>Henry Williams,</hi> alias <hi>Cromwell</hi>
+            </p>
+            <p>
+               <pb n="25" facs="tcp:35015:14" rendition="simple:additions"/>Eſquire, and Dame <hi>Elizabeth Ferryes,</hi> &amp;c. for four hundred pounds.</p>
+            <p>With execution at the ſuit of <hi>Iſanbar Savatt</hi> for twenty three pounds four ſhillings and ſix pence.</p>
+            <p>At the ſuite of <hi>Thomas Lyng</hi> Gentlem in for fourty pounds.</p>
+            <p>With execution at the ſuite of Sir <hi>Thomas Dawes</hi> for four pounds.</p>
+            <p>And with an Outlawry after Judgement at the ſuite of <hi>Rachel Cambell</hi> widdow and others for two thouſand and one pounds debt, and thirty one ſhillings damage.</p>
+            <p>And with an <hi>Hebeas Corpus</hi> upon an Outlaty, at the ſuite of <hi>Iames Cambell</hi> in a plea of debt.</p>
+            <p>And with an Outlawry, at the ſuite of <hi>Michael Fawkes,</hi> 200 <hi>l.</hi>
+            </p>
+            <p>And upon a Judgement at ſuite of <hi>Thomas Squire</hi> for two hun<g ref="char:EOLhyphen"/>dred pounds, and thirty ſhillings coſts.</p>
+            <p>And at the ſuite of <hi>Iohn Alkins</hi> in a plea of treſpaſs.</p>
+            <p>And at ſuite of <hi>Robert Iohnſon</hi> in a plea of treſpaſs.</p>
+            <p>And beſides all theſe he was to pay in to the Committee for publike debts the laſt Saturday, but hath not, one thouſand three hundred and odd pounds.</p>
+            <p>And now becauſe I know he that is a Machiavell will tell all his creditors, that it is the pretended ryoters in the Iſle of <hi>Axholm,</hi> that holdeth his land from him, that ſhould pay his debts, I ſhall firſt ſhew you how this Maſter <hi>Gibbon</hi> hath ſold and conveyed aſ<g ref="char:EOLhyphen"/>much lands upon the dramage<g ref="char:punc">▪</g> within the level of <hi>Hatfield</hi> Chaſe and parts adjacent<g ref="char:punc">▪</g> in the Counties of <hi>York, Lincoln</hi> and <hi>Notting<g ref="char:EOLhyphen"/>ham,</hi> as for which he hath received above threeſcore thouſand pounds; and namely he ſold.</p>
+            <p>To <hi>Iohn Godbold</hi> then Serjeant at law <hi>William Say<g ref="char:punc">▪</g>
+               </hi>
+               <note place="margin">
+                  <hi>Note,</hi> Mr. <hi>Say</hi> a fit Chaire<g ref="char:EOLhyphen"/>man and Reporter.</note> 
+               <hi>Edward Walrond,</hi> and <hi>Mich. Hutchinſon</hi> of the middle Temple Eſquires<g ref="char:punc">▪</g> land there, for which he received twenty eight thouſand pounds. <hi>Vide</hi> the conveyances inrolled, dated 5. <hi>Dec.</hi> 1637. and others.</p>
+            <p>Note that Maſter <hi>Say</hi> ſells all his part again to <hi>Hugh Awdley</hi> of the Inner Temple <hi>London</hi> Eſquire, and others therein named, and joyns <hi>Gibbon</hi> named with him, whereof much is of the land in con<g ref="char:EOLhyphen"/>troverſie; and having received his mony or ſecurety for it, enters into warranty to make good the ſale. <hi>Vide</hi> the inrolment in <hi>Chancery,</hi> 6. <hi>Martii</hi> 1649.</p>
+            <p>
+               <hi>Item, Gibbon</hi> ſold to the ſaid <hi>Hugh Awdley</hi> and others, land
+<pb n="26" facs="tcp:35015:15" rendition="simple:additions"/>there, for which he received twenty three thouſand pounds. <hi>Vide</hi> the ſeveral inrolled Conveyances in the yeer 1650.</p>
+            <p>
+               <hi>Item, Gibbon</hi> ſold to <hi>Francis Ruſſel</hi> Eſquire, <hi>&amp;c.</hi> land in that drainage, though none of it of the land in controverſie, for which he received two thouſand and five pounds. <hi>Vide</hi> the inrolled Conveyance, <hi>Anno</hi> 14. <hi>Car.</hi>
+            </p>
+            <p>
+               <hi>Item. Gibbon</hi> ſold to Sir <hi>Edward Osburn</hi> the Mannor of <hi>Hat<g ref="char:EOLhyphen"/>field,</hi> for which he received ten thouſand pounds.</p>
+            <p>Many other Conveyances there are, upon which he received ſeve<g ref="char:EOLhyphen"/>ral great ſums, as between <hi>Gibbon</hi> and <hi>Osburn.</hi> 12. Car. <hi>Gibbon</hi> and <hi>Vernatt,</hi> 12. Car. <hi>Gibbon</hi> and <hi>Gerard,</hi> 12. Car. <hi>Gibbon</hi> and <hi>Iohnſon,</hi> 13. Car. <hi>Gibbon</hi> and Maſter of the Rolls, and <hi>Richer,</hi> 13. Car. <hi>Gibbon</hi> and <hi>Cambell.</hi> 14. Car. <hi>Gibbon</hi> and <hi>Hampe,</hi> and o<g ref="char:EOLhyphen"/>thers, 14. Car. <hi>Gibbon</hi> and <hi>Mercalfe,</hi> 14. Car. <hi>Gibbon</hi> and <hi>Manwood,</hi> 14. Car. <hi>Gibbon Io.</hi> and <hi>Gibbon Nic.</hi> 15. Car. <hi>Gibbon</hi> and <hi>Shering,</hi> 16. Car. <hi>Gibbon Io.</hi> and <hi>Arthur Samuel,</hi> for land in the Foreſt of Galtry, and <hi>Gibbon</hi> and Sir <hi>Abraham Dawes,</hi> for land there alſo, 16. Car. <hi>Gibbon</hi> and <hi>Gale Robert,</hi> 18. Car. <hi>Gibbon</hi> and <hi>Nokes,</hi> 19. Car. <hi>Gibbon</hi> and <hi>Shering,</hi> 19. Car. <hi>Gibbon</hi> and <hi>Lechmore,</hi> 19. Car. <hi>Gibbon</hi> and <hi>Nokes,</hi> 22. Car.</p>
+            <p>So many indeed are the vaſt, groſs, and ſmall ſums, that this man hath received, waſted and ſpent, that I am confident it is not in the power of himſelf to enumerate, muchleſs in me, that can but only tell what thoſe reports ſpeak forth that are extant: and truly had there not been a neceſſity, laid upon me, out of duty to the country for whom I Solicit, and my ſelf (Maſter <hi>Gibbon</hi> himſelf giving the occa<g ref="char:EOLhyphen"/>ſion) I ſhould have been ſparing thus to have writ.</p>
+            <p>Upon conſideration of all which, I humbly ſubmit it on the behalf of the Freeholders, whether it be not a thing fit that ſome of thoſe that pretend themſelves Participants in the ground, ſhould not make their viſible appearance, and own the proſecution of this buſineſs, aſwel as Maſter <hi>Gibbon,</hi> who ſtandeth thus outlawed, and in that re<g ref="char:EOLhyphen"/>ſpect ought not to have the benefit of the law in things juſt, how much leſs in things vexatious and unjuſt? and being a man of this conditi<g ref="char:EOLhyphen"/>on, from whom can the Freeholders expect reparation, having no o<g ref="char:EOLhyphen"/>ther viſible proſecutor but Maſter <hi>Gibbon,</hi> and the general name Participants; and who they are, it is not known, but Maſter <hi>Gibbon</hi> it is well known ſtops his creditors mouths with the noiſe of his hopes of
+<pb n="27" facs="tcp:35015:15" rendition="simple:additions"/>theſe lands: and what will not they every one do, but drive on their own deſigns, thereby to make good their deſperate debts as much as poſſible they may? for can it be thought, that if Maſter <hi>Cambell</hi> have a friend, he will not ingage him aſmuch as he can? and that if Sir <hi>Iohn Litteot</hi> have a friend he will not do the like? and ſo of all the reſt of his creditors (but thanks be to God, I finde a change; I be<g ref="char:EOLhyphen"/>lieve no ſuch friendſhip of that kinde, will finde acceptance amongſt your honors) my deſire is but to diſcover the truth, and that too by matter of record, wherein I may ſoon be found a lyer if I do not: the Decree of <hi>Febr.</hi> 1650. proceedings at law, and the Depoſitions (if rightly taken by Maſter <hi>Say,</hi> whereof I deſire copies aſwell as Ma<g ref="char:EOLhyphen"/>ſter <hi>Gibbon</hi> hath had) will decide the buſineſs, as to the poſſeſſion which he hungers after, and by deluſion hath made a ſtop unto: and when I had diſcovered the truth, and ſtudyed how to bring it to you, I could not tell poſſibly how to do it at preſent better to prevent dan<g ref="char:EOLhyphen"/>ger, as the caſe ſtands, then this way, and by lodging the Freeholders petition in the hands of the <hi>Lincolnſhire</hi> Members, which is humbly deſired to be called for, when the buſineſs is reported: for what order the honorable Councel of State have made in it or how or when this buſineſs may come before your honors, I cannot certainly tell, although it is now above a moneth ſince ſomething was done in it; and the Free<g ref="char:EOLhyphen"/>holders have good hope that care is taken for them by the honorable Councel: but all that I can learn at the Office is, that Maſter <hi>Thurl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> hath taken the care of drawing it to himſelf; but I moſt humbly be<g ref="char:EOLhyphen"/>ſeech you all (as the ſafeſt refuge every Freeholder in <hi>England</hi> in this caſe hath to flye unto) to take care of it, for there is much of the Freedom of the laws and liberties of <hi>England,</hi> in my judgement, ei<g ref="char:EOLhyphen"/>ther to be preſerved of loſt in it.</p>
+            <p>And now I have thus written, I am at quiet (being as confident of Juſtice as ever I was in my life from any) a comfort I wanted the laſt Parliament: and truly if I ſhould be asked the reaſon, I am able to ſay no more then this, That I verily perſwade my ſelf the fear of God is amongſt you, to diſtribute righteouſneſs to all the people of this Commonwealth, and in particular, to this long oppreſſed people within the Mannor of <hi>Epworth,</hi> that could never obtain a tryal at law this twenty yeers (juſtice being formerly obſtructed by orders of ſeveral Courts) and now of late, although within this right yeers, they had two ſeveral dayes by ſpecial order, firſt in the Common
+<pb n="28" facs="tcp:35015:16" rendition="simple:additions"/>Pleas, and then in the Exchequer ſet down for tryal, and ſeveral Juries returned; yet before <hi>Michaelmas</hi> Term 1651. (being the third time they had a day ſet down, and a Jury returned) they could not obtain it; and then alſo Maſter <hi>Gibbon</hi> endeavoured to make good his ſeveral ſayings, that the inhabitants ſhould never have a tryal ſo long as they were quick (as is proved) for the Jury was then adjourned from day to day at the Exchequer Bar, and ſtaid in town neer a moneth before the tryal was permitted to go on; yet in con<g ref="char:EOLhyphen"/>cluſion the Plaintiff being no ryoter was permitted to go on, but Ma<g ref="char:EOLhyphen"/>ſter <hi>Gibbon</hi> and his Councel departed the Court, and being able to make no defence, let the verdict go by default, purpoſely that he might have this to ſay, That the Participants made no defence. And I have this to ſay more for them, that although the cauſe ſhould be tryed never ſo often, they will never do otherwiſe; and have this found by experience, that a multitude ſhall never be righted ſo long as their remedy lyes by ſuites of this length and continuance (if pre<g ref="char:EOLhyphen"/>tence of ryot by a few ſhall take away the poſſeſſion of all) for 'tis not poſſible but ſome of the ruder ſort will grow diſorderly, and in<g ref="char:EOLhyphen"/>danger both themſelves and thoſe that deal for them upon which ſcore the Star-chamber formerly took away their poſſeſſion, making the people ryoters, whereas the projectors were indeed the ryoters, both in the ſight of God and the ey of the law and I hope may in time be ſo looked upon; now the people themſelves have teſtified their willingneſs under their ſubſcribed hands, to joyn with the preſent Lords of the Mannor in a legal improvement of the ſaid grounds for their own and the Commonwealths good; and are ready, if there be any thing due either in law or equity to the Participants to yeeld it to them: and as to matter of pretended ryot, they hope, in caſe your honors take cognizance of it, you will be pleaſed to let every man complained againſt have his particular charge, and then he that can<g ref="char:EOLhyphen"/>not nor defend himſelf, having once a legal way preſcribed to do it<g ref="char:punc">▪</g> muſt ſuffer, if there be no more pardon to be had then the Act of Oblivion of the late Parliament gives unto him.</p>
+            <p>I have thus far diſcharged my duty to God and my Country in the place I ſtand imployed, the great God of heaven direct your ho<g ref="char:EOLhyphen"/>nours, that this cauſe may come before you with a right underſtand<g ref="char:EOLhyphen"/>ing of it, which the report of Maſter <hi>Say,</hi> and Maſter <hi>Darley</hi> can never bring; and againſt which, as partial, wicked, and moſt unjuſt,
+<pb n="29" facs="tcp:35015:16" rendition="simple:additions"/>many thouſands of men, women, and children, within the Iſle of <hi>Axholm,</hi> have as juſt cauſe of complaint, as ever had people in any cauſe whatſoever. All which I own under my hand, and upon a reaſonable time given, ſhall be ready, either to make good, at leaſt in the ſubſtance, or ſuffer.</p>
+            <closer>
+               <signed>Daniel Noddell.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35015:17"/>
+            <pb facs="tcp:35015:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
